@@ -1,0 +1,27 @@
+name: fgm-risk
+channels:
+  - conda-forge
+dependencies:
+  - r-base>=4.4
+  - r-irkernel
+  - r-tidyverse
+  - r-haven
+  - r-survey
+  - r-survival
+  - r-survminer
+  - r-sf
+  - r-spdep
+  - r-mgcv
+  - r-changepoint
+  - r-remotes
+  - r-terra
+  - r-gdtools
+  - r-ggiraph
+  - r-shadowtext
+  - r-ggspatial
+  - r-bayesm
+  - r-skimr
+  - r-janitor
+  - r-randomforest
+  - compilers
+  - jupyterlab

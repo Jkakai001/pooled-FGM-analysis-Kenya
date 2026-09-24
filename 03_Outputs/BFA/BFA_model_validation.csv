@@ -1,0 +1,27 @@
+age_band,fgm_risk,record_type,model
+0-5,0.31291049973129803,Self-reported,Kaplan Meier
+5-10,0.28446505330491634,Self-reported,Kaplan Meier
+10-15,0.09906447499129156,Self-reported,Kaplan Meier
+15-20,0.009964205812278193,Self-reported,Kaplan Meier
+20-25,8.252847807818098e-4,Self-reported,Kaplan Meier
+0-5,0.10091758318096766,Daughter-reported,Kaplan Meier
+5-10,0.03282524100951656,Daughter-reported,Kaplan Meier
+10-15,0.0031715869973961697,Daughter-reported,Kaplan Meier
+15-20,0,Daughter-reported,Kaplan Meier
+20-25,0,Daughter-reported,Kaplan Meier
+0-5,0.09490162490032036,Daughter-reported,Design based direct
+0-5,0.300256006424456,Self-reported,Design based direct
+10-15,NA,Daughter-reported,Design based direct
+10-15,0.11735009180847905,Self-reported,Design based direct
+15-20,NA,Daughter-reported,Design based direct
+15-20,0.012792498100198496,Self-reported,Design based direct
+20-25,NA,Daughter-reported,Design based direct
+20-25,8.989450454038877e-4,Self-reported,Design based direct
+5-10,0.03555454635038301,Daughter-reported,Design based direct
+5-10,0.28587487686929386,Self-reported,Design based direct
+0-5,0.09605038148112251,Daughter-reported,Spatial small area
+0-5,0.30401004180097824,Self-reported,Spatial small area
+10-15,0.12449209970944661,Self-reported,Spatial small area
+15-20,0.012211073925277231,Self-reported,Spatial small area
+20-25,8.041008841776393e-4,Self-reported,Spatial small area
+5-10,0.2832346031366287,Self-reported,Spatial small area
