@@ -31,7 +31,7 @@ mothers (1,428 cut). DHS 2003 did not ask age at cutting. All risks are survey-w
 Kaplan–Meier estimates unless stated otherwise.
 
 **1. Cutting happens mainly at ages 5–15.** Only 2–4% of cut women report cutting before age 5;
-43–45% report ages 10–14 and 22–32% age 15 or older. In the hazard model, the annual odds of
+42–45% report ages 10–14 and 22–32% age 15 or older. In the hazard model, the annual odds of
 being cut are 13 times those at ages 0–4 at ages 5–9, 52 times at 10–14 and 19 times at 15 and
 older.
 
