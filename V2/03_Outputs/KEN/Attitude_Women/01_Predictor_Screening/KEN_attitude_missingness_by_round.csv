@@ -1,0 +1,5 @@
+survey_id,own_status,age,education,wealth,religion,ethnicity,urban_rural,region
+DHS 1998,0.001,0,0,1,0.002,0.001,0,0
+DHS 2008,0,0,0,0,0,0,0,0
+DHS 2014,0,0,0,0,0,0,0,0
+DHS 2022,0,0,0,0,0,0,0,0

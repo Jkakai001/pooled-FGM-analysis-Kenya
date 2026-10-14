@@ -1,0 +1,7 @@
+record_type,survey_id,exact age reported,unknown age (spread over 0 to current age),during infancy (spread over 0-4),distribution from: cohort,distribution from: survey
+self,DHS 1998,2650,98,0,98,0
+self,DHS 2008,2391,101,49,101,49
+self,DHS 2014,4249,62,66,61,67
+self,DHS 2022,3924,82,30,82,30
+daughter,DHS 2014,719,20,0,10,10
+daughter,DHS 2022,685,4,0,3,1

@@ -1,0 +1,14 @@
+Geospatial covariates section validation
+
+PASS: all existing notebook cells unchanged; four cells inserted before Lexis.
+PASS: full notebook R syntax.
+PASS: 16,995 self and 17,512 daughter complete histories prepared.
+PASS: 320 self and 36 daughter target region/cohort/age-band cells prepared.
+PASS: grouped weighted Bernoulli likelihood equals the annual-record likelihood.
+PASS: constant-hazard age-band risk matches analytic survival calculations.
+PASS: heterogeneous profiles use survival ratios, including risk-set conditioning.
+PASS: unsupported follow-up remains missing.
+
+Full INLA fits and adjusted map rendering were not run: this R installation
+lacks INLA and sf. No fitted covariate-adjusted maps or estimates are claimed.
+Run the new section after the original risk maps in the configured R kernel.

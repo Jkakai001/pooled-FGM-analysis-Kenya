@@ -1,0 +1,17 @@
+survey_id,indicator,official,ours,difference
+DHS 1998,Women 15-49 circumcised,37.6,37.7,0.1
+DHS 2003,Women 15-49 circumcised,32.2,32.2,0
+DHS 2008,Women 15-49 circumcised,27.1,27.1,0
+DHS 2014,Women 15-49 circumcised,21,21,0
+DHS 2022,Women 15-49 circumcised,14.8,14.8,0
+DHS 2008,Heard of FGM,96.1,96.1,0
+DHS 2014,Heard of FGM,96.8,96.8,0
+DHS 2022,Heard of FGM,96.9,96.9,0
+DHS 2014,Girls 0-14 circumcised,2.8,2.9,0.1
+DHS 2022,Girls 0-14 circumcised,1.6,1.6,0
+DHS 1998,Women: support continuation (all answers),19.8,19.8,0
+DHS 2008,Women: support continuation (all answers),9.8,9.8,0
+DHS 2014,Women: support continuation (all answers),6.2,6.2,0
+DHS 2022,Women: support continuation (all answers),4.3,4.3,0
+DHS 2014,Men: support continuation (all answers),9.3,9.3,0
+DHS 2022,Men: support continuation (all answers),4.8,4.8,0

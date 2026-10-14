@@ -1,0 +1,3 @@
+record_type,n_histories,excluded,annual_rows,grouped_likelihood_rows,posterior_draws,formula
+self,16995,0,154885,20153,200,"event ~ age_year + ethnicity + urban_rural + f(region_id, model = ""bym2"",      graph = graph, scale.model = TRUE) + f(cohort_id, model = ""rw2"",      values = cohort_values, scale.model = TRUE, constr = TRUE)"
+daughter,17512,0,61493,4971,200,"event ~ age_year + ethnicity + urban_rural + f(region_id, model = ""bym2"",      graph = graph, scale.model = TRUE) + f(cohort_id, model = ""rw2"",      values = cohort_values, scale.model = TRUE, constr = TRUE)"

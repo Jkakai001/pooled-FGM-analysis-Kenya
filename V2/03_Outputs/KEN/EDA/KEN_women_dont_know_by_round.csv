@@ -1,0 +1,6 @@
+survey_id,women_asked_own_status,status_dont_know,status_dont_know_pct,women_cut,age_dont_know,age_dont_know_pct,age_missing_or_inconsistent
+DHS 1998,7873,0,0,2748,71,2.7171983992103197,27
+DHS 2003,8174,0,0,2724,NA,NA,0
+DHS 2008,8042,0,0,2541,99,3.5457734423735534,2
+DHS 2014,14294,0,0,4377,48,1.2896832966886633,14
+DHS 2022,16357,0,0,4036,82,1.621077343089132,0

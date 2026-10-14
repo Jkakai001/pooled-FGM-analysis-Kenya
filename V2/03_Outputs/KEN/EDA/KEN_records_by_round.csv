@@ -1,0 +1,7 @@
+survey_id,women_interviewed,fgm_module_asked,status_known,never_heard_counted_uncut,status_dont_know,women_cut,attitude_continue_or_stop,daughters_0_14,daughters_of_never_heard_mothers,daughters_cut,most_recently_cut_daughter,men_15_49,men_attitude_continue_or_stop
+DHS 1998,7881,7873,7873,0,0,2748,7314,0,0,0,0,0,0
+DHS 2003,8195,8174,8174,0,0,2724,0,0,0,0,0,0,0
+DHS 2008,8444,8437,8433,395,0,2541,7609,0,0,0,524,0,0
+DHS 2014,31079,14739,14734,445,0,4377,14073,13189,398,739,0,12011,11507
+DHS 2022,32156,16902,16902,545,0,4036,15890,13525,434,689,0,13669,12878
+Total,87755,56125,56116,1385,0,16426,44886,26714,832,1428,524,25680,24385
