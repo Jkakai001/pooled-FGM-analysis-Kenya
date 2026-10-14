@@ -405,7 +405,7 @@ md("""
 
 - Outcome: "ever cut" prevalence (SDG 5.3.2), not the age-specific risk of the risk notebook.
 - Maps pool all rounds. The pooled region estimate averages over every respondent interviewed
-  in the region across 1998–2021, with weights rescaled to mean one within each survey, so it
+  in the region across 1998–2022, with weights rescaled to mean one within each survey, so it
   describes the period as a whole rather than one year; cohort maps show change over time.
 - Daughters' prevalence is not lifetime risk: many girls are not yet past the ages at which
   cutting occurs.
